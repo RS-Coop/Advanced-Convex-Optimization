@@ -1,0 +1,2 @@
+include core/problems/data/mnist
+include core/problems/data/cifar10
